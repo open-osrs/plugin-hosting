@@ -1,0 +1,18 @@
+[
+   {
+      "projectUrl":"https://discord.gg/OpenOSRS",
+      "provider":"OpenOSRS",
+      "name":"Diary Requirements",
+      "description":"Display level requirements in Achievement Diary interface",
+      "id":"diaryrequirements-plugin",
+      "releases":[
+         {
+            "date":"2020-02-08",
+            "sha512sum":"B387A7CAC8AED8D9DAD301A6417754B0BA1A6F017F0AC6207429449CC2B8DBFC50C4A5A9339CD79D60ED2E249A787AF226658BEB3A807CE1358B3380A802528C",
+            "version":"0.0.2",
+            "url":"https://github.com/open-osrs/plugin-hosting/blob/master/release/achievementdiary-0.0.2.jar?raw=true",
+            "requires":"0.0.1"
+         }
+      ]
+   }
+]
